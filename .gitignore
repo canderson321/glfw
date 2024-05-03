@@ -2,6 +2,11 @@
 build
 build-*
 
+*.recipe
+*.log
+*.tlog
+*.obj
+
 # Visual Studio clutter
 _ReSharper*
 *.sdf
